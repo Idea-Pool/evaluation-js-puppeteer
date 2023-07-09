@@ -28,7 +28,7 @@
     "eslint": "^6.8.0",
     "husky": "^4.0.10",
     "jest": "^26.1.0",
-    "jest-puppeteer": "^4.4.0",
+    "jest-puppeteer": "^9.0.0",
     "puppeteer": "^5.0.0"
   },
   "husky": {
